@@ -1,4 +1,4 @@
-﻿# Square-Alphabet-Increasing-Pattern-
+﻿# Square-Alphabet-Increasing-Pattern
 
 This C++ program prints a square matrix of characters, starting from `'A'` and continuing through the ASCII sequence, filling `n x n` characters.
 
